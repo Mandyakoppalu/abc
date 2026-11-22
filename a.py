@@ -1,2 +1,2 @@
-print("kavana)
+print("kavana")
 
